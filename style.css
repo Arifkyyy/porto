@@ -1,0 +1,36 @@
+.banner {
+  background: url('https://img.freepik.com/free-vector/abstract-blue-technology-background_23-2149352057.jpg?t=st=1720205463~exp=1720209063~hmac=2974344e268ccd3f3c73163b5a15a0ba666c2809b81a967813604eb2f8be87ee&w=996') no-repeat center
+    center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #0d6efd;
+}
+.lingkaran i {
+  font-size: 150px;
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #0d6efd;
+}
+
+.card-img {
+  object-fit: cover;
+}
+
+.blue-text {
+  color: #0d6efd !important;
+}
+
+/* css progress bar */
